@@ -1,2 +1,4 @@
 .vscode/
 *.out
+design_patterns/state_machine/build/*
+data_structures/linked_list/build/*
